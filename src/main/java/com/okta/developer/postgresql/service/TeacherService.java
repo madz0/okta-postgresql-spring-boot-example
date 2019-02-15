@@ -1,6 +1,6 @@
-package com.okta.developer.spring_boot_postgressql.service;
+package com.okta.developer.postgresql.service;
 
-import com.okta.developer.spring_boot_postgressql.entities.Review;
+import com.okta.developer.postgresql.entities.Review;
 
 import javax.validation.constraints.NotNull;
 
