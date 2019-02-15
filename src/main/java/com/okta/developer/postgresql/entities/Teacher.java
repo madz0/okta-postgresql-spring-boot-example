@@ -1,16 +1,14 @@
-package com.okta.developer.spring_boot_postgressql.entities;
+package com.okta.developer.postgresql.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.hibernate.annotations.Type;
-import org.springframework.context.annotation.Lazy;
 
 import javax.persistence.Basic;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
-import java.util.ArrayList;
 import java.util.List;
 
 @Entity

@@ -1,7 +1,7 @@
-package com.okta.developer.spring_boot_postgressql.controllers;
+package com.okta.developer.postgresql.controllers;
 
-import com.okta.developer.spring_boot_postgressql.entities.Review;
-import com.okta.developer.spring_boot_postgressql.service.TeacherService;
+import com.okta.developer.postgresql.entities.Review;
+import com.okta.developer.postgresql.service.TeacherService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

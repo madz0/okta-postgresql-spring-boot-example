@@ -1,6 +1,6 @@
-package net.dovale.okta.spring_boot_postgressql.dao;
+package com.okta.developer.postgresql.dao;
 
-import net.dovale.okta.spring_boot_postgressql.entities.Course;
+import com.okta.developer.postgresql.entities.Course;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.UUID;

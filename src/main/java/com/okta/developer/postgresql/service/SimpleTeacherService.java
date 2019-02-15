@@ -1,8 +1,8 @@
-package net.dovale.okta.spring_boot_postgressql.service;
+package com.okta.developer.postgresql.service;
 
-import net.dovale.okta.spring_boot_postgressql.dao.TeacherDAO;
-import net.dovale.okta.spring_boot_postgressql.entities.Review;
-import net.dovale.okta.spring_boot_postgressql.entities.Teacher;
+import com.okta.developer.postgresql.dao.TeacherDAO;
+import com.okta.developer.postgresql.entities.Review;
+import com.okta.developer.postgresql.entities.Teacher;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Isolation;

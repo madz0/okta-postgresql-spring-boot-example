@@ -1,4 +1,4 @@
-package net.dovale.okta.spring_boot_postgressql.entities;
+package com.okta.developer.postgresql.entities;
 
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import org.hibernate.annotations.Type;

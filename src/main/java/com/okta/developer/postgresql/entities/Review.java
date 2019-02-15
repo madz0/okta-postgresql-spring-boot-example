@@ -1,4 +1,4 @@
-package com.okta.developer.spring_boot_postgressql.entities;
+package com.okta.developer.postgresql.entities;
 
 
 import lombok.AllArgsConstructor;
